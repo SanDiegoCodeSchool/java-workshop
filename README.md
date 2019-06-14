@@ -15,27 +15,27 @@ Complete these three projects:
 
 ### Build a restful API endpoint that can manage Todo items
 
-* should be able to post, get, delete, and patch (delete) items
+* should be able to post, get, delete, and patch (update) items
 
 * should be able to host a static html landing page
 
 ### Build a blog site
 
-* should be able to pust blogs
+* should be able to post new blog posts
 
-* Should be able to display blogs
+* should be able to display all posts
 
-* should be abel to display all blogs by an author
+* should be able to display all blogs by an author or category
 
-* should use 'jsp' templates for pages
+* should use `jsp` templates for pages
 
 ### Create a command line application that accepts an integer x and creates a file with x lines of lorem ipsum
 
-* should accept a file name
+* should accept a file name at the command line
 
-* should accept an integer
+* should accept an integer at the command line
 
-* Should generate a file with lines of random text
+* Should generate a new file with lines of random text
 
 
 ## Bonus
