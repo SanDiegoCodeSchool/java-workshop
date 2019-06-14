@@ -33,7 +33,9 @@ Complete these three projects:
 
 * should accept a file name
 
-* Should generate a file with text
+* should accept an integer
+
+* Should generate a file with lines of random text
 
 
 ## Bonus
