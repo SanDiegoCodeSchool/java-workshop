@@ -10,20 +10,29 @@
 
 
 ## Projects
+
 Complete these three projects:
 
-1. Build a restful API endpoint that can manage Todo items
+### Build a restful API endpoint that can manage Todo items
+
 * should be able to post, get, delete, and patch (delete) items
+
 * should be able to host a static html landing page
 
-1. Build a blog site
+### Build a blog site
+
 * should be able to pust blogs
+
 * Should be able to display blogs
+
 * should be abel to display all blogs by an author
+
 * should use 'jsp' templates for pages
 
-1. Create a command line application that accepts an integer x and creates a file with x lines of lorem ipsum
+### Create a command line application that accepts an integer x and creates a file with x lines of lorem ipsum
+
 * should accept a file name
+
 * Should generate a file with text
 
 
