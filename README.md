@@ -1,6 +1,6 @@
 # Java/Spring Quick Start
 
-![java-logo](assets/og-social-java-logo.gif)
+![java-spring](assets/spring-boot-java.jpg)
 
 ## Introduction
 
