@@ -1,5 +1,7 @@
 # Java/Spring Quick Start
 
+![java-logo](assets/og-social-java-logo.gif)
+
 ## Introduction
 
 1. Complete the workshop: [Building an Application with Spring Boot](https://spring.io/guides/gs/spring-boot/)
