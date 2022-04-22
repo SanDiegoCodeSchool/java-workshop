@@ -1,13 +1,13 @@
 # Java/Spring Quick Start
 
 ## Introduction
-1. Complete the workshop: https://spring.io/guides/gs/spring-boot/
-1. Review: https://github.com/spring-projects/sts4
-1. Complete the workshop: https://www.dineshonjava.com/spring-tutorial/
-1. Review the blog about reading and writing files: https://www.caveofprogramming.com/java/java-file-reading-and-writing-files-in-java.html
 
-(Optional) Watch: https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x
+1. Complete the workshop: [Building an Application with Spring Boot](https://spring.io/guides/gs/spring-boot/)
+1. Review: [STS4](https://github.com/spring-projects/sts4)
+1. Complete the workshop: [Spring Tutorial – Learn Spring Framework step by step](https://www.dineshonjava.com/spring-tutorial/)
+1. Review the blog about reading and writing files: [Reading and Writing Files in Java](https://www.caveofprogramming.com/java/java-file-reading-and-writing-files-in-java.html)
 
+ **Optional** Watch: [Spring Boot Quick Start 1 - Introduction](https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
 
 ## Projects
 
@@ -37,6 +37,6 @@ Complete these three projects:
 
 * Should generate a new file with lines of random text
 
-
 ## Bonus
-Get familiar with Spring with Kotlin: https://github.com/spring-guides/tut-spring-boot-kotlin
+
+Get familiar with [Spring with Kotlin](https://github.com/spring-guides/tut-spring-boot-kotlin)
