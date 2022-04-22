@@ -1,4 +1,4 @@
-# Java/Spring Quick Start
+# Java/ Spring Quick Start
 
 ![java-spring](assets/spring-boot-java.jpg)
 
